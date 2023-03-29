@@ -1,14 +1,6 @@
-# legends-landing-page
+# LoupGarou-landing-page
 
     ReactJS Game Landing Page | ReactJS SASS ViteJS
-
-# legends-landing-page
-
-    ReactJS Game Landing Page | ReactJS SASS ViteJS
-
-# Video tutorial
-
-    https://youtu.be/6sp_a1fnkjE
 
 # Resource
 
